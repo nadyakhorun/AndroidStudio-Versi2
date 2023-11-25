@@ -199,11 +199,12 @@ Dosen Pengampu  : Donny Maulana, S.Kom., M.M.S.I
          * kita menambahkan sebuah button baru yaitu button untuk membuka maps.
 
    e. Selanjutnya kita akan mendapatkan tampilan design seperti ini.
+   
+   ![hasil design](https://github.com/nadyakhorun/AndroidStudio-Versi2/assets/115801823/9c9e7976-0aa0-4a1c-9e1b-6b07accc7c07)
 
+7. Tampilan design activity_main.xml sudah selesai.
 
-6. Tampilan design activity_main.xml sudah selesai.
-
-7. Selanjutnya kita mengedit pada bagian MainActivity.java, karena kemaren diperintahkannya untuk membuat tombol membuka maps. Maka disini kita akan tambahkan lagi code implicit intent untuk membuka mapsnya, tambahkan code berikut dibawah setContentView
+8. Selanjutnya kita mengedit pada bagian MainActivity.java, karena kemaren diperintahkannya untuk membuat tombol membuka maps. Maka disini kita akan tambahkan lagi code implicit intent untuk membuka mapsnya, tambahkan code berikut dibawah setContentView
 
         ImageButton btnshowMap = findViewById(R.id.btnshowMap);
               btnshowMap.setOnClickListener(v -> {
@@ -212,7 +213,7 @@ Dosen Pengampu  : Donny Maulana, S.Kom., M.M.S.I
                   startActivity(map);
               });
 
-8. Semua code sudah berhasil ditambahkan dan diedit.
+9. Semua code sudah berhasil ditambahkan dan diedit.
 
 # Hasil Run
 
