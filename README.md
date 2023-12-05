@@ -217,4 +217,6 @@ Dosen Pengampu  : Donny Maulana, S.Kom., M.M.S.I
 
 # Hasil Run
 
+https://github.com/nadyakhorun/AndroidStudio-Versi2/assets/115801823/11ba8d05-797e-4c49-aee4-e9706cbcdcc3
+
 # Sekian dan Terima Kasih
